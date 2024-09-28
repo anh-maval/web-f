@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Documents/food-store"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Food Website"
+	}
+}
